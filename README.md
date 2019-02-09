@@ -1,3 +1,5 @@
-# arqma-logo
+# ArQmA
+
 Logotypes, pictures media files
-All Right Reserved to Arqma Network
+
+# All Right Reserved to Arqma Network
